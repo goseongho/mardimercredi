@@ -1,4 +1,4 @@
-### 배포URL [마르디메크르디 쇼핑몰 ] (http://abc.com)
+### 배포URL [마르디메크르디 쇼핑몰 ] ((https://gleeful-buttercream-68eddd.netlify.app/))
 
 # 마르디메크르디 쇼핑몰 프로젝트
 
